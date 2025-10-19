@@ -4,7 +4,7 @@
 
 - 🛡️ Studying by day, 🕵️‍♂️ breaking things by night 😈
 - 🚩 Love playing **CTFs**, solving challenges, Understanding Technologies
-- 💻 I am obsessed with assembly, python, c, js and Hacking 
+- 💻 I am obsessed with Binary
 - 🌐 Interested in: Networking 🌍 | Penetration Testing | Reverse Engineering 🔄 | Binary Exploitation 🔐
 - 📚 Always learning, always curious 🚀
 
