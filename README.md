@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+New&duration=2000&pause=500&color=00FF00&multiline=true&width=435&height=180&lines=%24+whoami;Bijaya+Kumal;Cybersecurity+Enthusiast+%7C+CTF+Player+%7C+Code+Breaker;Studying+by+day%2C+hacking+by+night;Skills%3A+Python%2C+C%2FC%2B%2B%2C+Assembly;Interests%3A+Networking%2C+Exploits%2C+Reverse+Engineering%2C+Binary+Exploitation;Always+learning%2C+always+curious;Initializing+profile...;)](#)
 
 - 🛡️ Studying by day, 🕵️‍♂️ breaking things by night 😈
-- 🚩 Love playing **CTFs**, solving challenges, Understanding Technologies
+- 🚩 Love playing **CTFs**-, solving challenges, Understanding Technologies
 - 💻 I am obsessed with Binary
 - 🌐 Interested in: Networking 🌍 | Penetration Testing | Reverse Engineering 🔄 | Binary Exploitation 🔐
 - 📚 Always learning, always curious 🚀
